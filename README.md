@@ -13,13 +13,13 @@
     /____/\___/_/   \___/\___/_/ /_/____/_/ /_/\____/\__/____/    
 
 
-    ![Spoliers](https://github.com/FGod47/MNML_CUPCAKE/blob/main/Source/1.png)  
-    !(https://github.com/FGod47/MNML_CUPCAKE/blob/main/Source/2.png)
-    !(https://github.com/FGod47/MNML_CUPCAKE/blob/main/Source/3.png)
-    !(https://github.com/FGod47/MNML_CUPCAKE/blob/main/Source/4.png)
-    !(https://github.com/FGod47/MNML_CUPCAKE/blob/main/Source/5.png)
-    !(https://github.com/FGod47/MNML_CUPCAKE/blob/main/Source/1.gif)
-    !(https://github.com/FGod47/MNML_CUPCAKE/blob/main/Source/2.gif)
+    ![Spoliers](Source/1.png)  
+    !(Source/2.png)
+    !(Source/3.png)
+    !(Source/4.png)
+    !(Source/5.png)
+    !(Source/1.gif)
+    !(Source/2.gif)
 
     
 
