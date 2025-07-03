@@ -13,6 +13,6 @@
     /____/\___/_/   \___/\___/_/ /_/____/_/ /_/\____/\__/____/    
 
 
-    ![Spoliers](Source/1.png)
+    ![Spoliers](https://github.com/FGod47/MNML_CUPCAKE/blob/main/Source/1.png?raw=true))
     
 
