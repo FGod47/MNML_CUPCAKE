@@ -1,0 +1,51 @@
+* {
+    background-image: none;
+    font-family: "FiraCode Nerd Font", monospace;
+    font-size: 30px;
+}
+
+window {
+    background-color: rgba(127, 92, 136, 0.274);
+}
+
+button {
+    background-color: rgba(45, 45, 61, 0.808);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30%;
+    border-radius: 0px;
+    border: none;
+    padding: 50px 50px;
+    color: white;
+    transition: all 0.4s ease-in-out;
+    text-shadow: none;
+}
+
+button:hover {
+    background-color: rgba(166, 157, 243, 0.548);
+    color: #ffffff;
+    font-weight: bolder;
+    background-size: 40%;
+    text-shadow: none;
+    padding: 100px;
+}
+
+#logout {
+    border-radius: 20px 0 0 20px;
+    background-image: image(url("/home/fgod/.config/wlogout/icons/logout.png"));
+}
+
+#shutdown {
+    background-image: image(url("/home/fgod/.config/wlogout/icons/shutdown.png"));
+}
+
+#reboot {
+    border-radius: 0 20 20 0;
+    background-image: image(url("/home/fgod/.config/wlogout/icons/reboot.png"));
+}
+
+@keyframes pulse {
+    0% { box-shadow: 0 0 5px #b4befe; }
+    50% { box-shadow: 0 0 20px #b4befe; }
+    100% { box-shadow: 0 0 5px #b4befe; }
+}
