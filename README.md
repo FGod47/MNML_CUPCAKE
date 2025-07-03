@@ -13,13 +13,6 @@
     /____/\___/_/   \___/\___/_/ /_/____/_/ /_/\____/\__/____/    
 
 
-    ![Spoliers](Source/1.png)  
-    !(Source/2.png)
-    !(Source/3.png)
-    !(Source/4.png)
-    !(Source/5.png)
-    !(Source/1.gif)
-    !(Source/2.gif)
-
+    ![Spoliers](Source/1.png)
     
 
